@@ -38,8 +38,48 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/amand/OneDrive/Dokument/Webbutvekling 2024-2026/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FsbGVyeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/amand/OneDrive/Dokument/Webbutvekling 2024-2026/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FsbGVyeVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/amand/OneDrive/Dokument/Webbutvekling 2024-2026/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FsbGVyeVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/amand/OneDrive/Dokument/Webbutvekling 2024-2026/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FsbGVyeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/amand/OneDrive/Dokument/Webbutvekling 2024-2026/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FsbGVyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/amand/OneDrive/Dokument/Webbutvekling 2024-2026/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/amand/OneDrive/Dokument/Webbutvekling 2024-2026/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9kZFBvcnRmb2xpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/amand/OneDrive/Dokument/Webbutvekling 2024-2026/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9kZFBvcnRmb2xpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/amand/OneDrive/Dokument/Webbutvekling 2024-2026/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9kZFBvcnRmb2xpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/amand/OneDrive/Dokument/Webbutvekling 2024-2026/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9kZFBvcnRmb2xpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/amand/OneDrive/Dokument/Webbutvekling 2024-2026/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9kZFBvcnRmb2xpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/amand/OneDrive/Dokument/Webbutvekling 2024-2026/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Privacy.cshtml]

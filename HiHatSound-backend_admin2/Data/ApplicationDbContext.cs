@@ -1,7 +1,7 @@
 ﻿using Gallery.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using PoddPortfolio.Models;
+using HiHatSound_backend_admin2.Models;
 
 namespace HiHatSound_backend_admin2.Data;
 

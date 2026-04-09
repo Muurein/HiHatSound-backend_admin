@@ -1,6 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace PoddPortfolio.Models {
+namespace HiHatSound_backend_admin2.Models
+{
 
     public class PoddPortfolioModel
     {

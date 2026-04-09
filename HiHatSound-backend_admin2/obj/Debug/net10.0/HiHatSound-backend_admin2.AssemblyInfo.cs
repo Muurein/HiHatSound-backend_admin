@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HiHatSound-backend_admin2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+514dec5ef08f19adaa27258c04061fe7c51d806a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c42972a84243abcaf2fa586e58b282f8b9e00d2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HiHatSound-backend_admin2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HiHatSound-backend_admin2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
