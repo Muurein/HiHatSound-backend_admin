@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using HiHatSound_backend_admin2.Data;
 using HiHatSound_backend_admin2.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace HiHatSound_backend_admin2.Pages.PoddPortfolio
 {
+    [Authorize]
     public class IndexModel : PageModel
     {
         private readonly HiHatSound_backend_admin2.Data.ApplicationDbContext _context;
