@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n3+18fgn6NM=",
+  "dgSpecHash": "l0iuHcrwU6o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\amand\\OneDrive\\Dokument\\Webbutvekling 2024-2026\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj",
+  "projectFilePath": "C:\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amand\\.nuget\\packages\\azure.core\\1.52.0\\azure.core.1.52.0.nupkg.sha512",
     "C:\\Users\\amand\\.nuget\\packages\\azure.identity\\1.20.0\\azure.identity.1.20.0.nupkg.sha512",

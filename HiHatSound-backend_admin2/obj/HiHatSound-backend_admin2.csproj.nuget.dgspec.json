@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amand\\OneDrive\\Dokument\\Webbutvekling 2024-2026\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj": {}
+    "C:\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amand\\OneDrive\\Dokument\\Webbutvekling 2024-2026\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj": {
+    "C:\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amand\\OneDrive\\Dokument\\Webbutvekling 2024-2026\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj",
+        "projectUniqueName": "C:\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj",
         "projectName": "HiHatSound-backend_admin2",
-        "projectPath": "C:\\Users\\amand\\OneDrive\\Dokument\\Webbutvekling 2024-2026\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj",
+        "projectPath": "C:\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj",
         "packagesPath": "C:\\Users\\amand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amand\\OneDrive\\Dokument\\Webbutvekling 2024-2026\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\obj\\",
+        "outputPath": "C:\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
