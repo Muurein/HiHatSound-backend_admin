@@ -1,5 +1,9 @@
 # Hi-Hat Sound - backend
-Projektet är tänkt att fungera som en företagssida för företaget Hi-Hat Sound, som erbjuder tjänster som poddklippning. En autentiserad administratör ska kunna logga in i ett administrationsgränssnitt för att ändra bilder i ett galleri från event företaget har jobbat med och uppdatera en lista över poddar som de klippt. Poddarna och galleriet visas i en separat frontend. Projektet byggdes som examensarbetet för min utbildning och inom tidsramarna för detta har administrationsgränssnittet inte stylats utöver den styling som ASP.NET Core Razor Pages erbjuder.
+Projektet är tänkt att fungera som en företagssida för företaget Hi-Hat Sound, som erbjuder tjänster som poddklippning. En autentiserad administratör ska kunna logga in i ett administrationsgränssnitt för att ändra bilder i ett galleri från event företaget har jobbat med och uppdatera en lista över poddar som de klippt. Poddarna och galleriet visas i en separat frontend. 
+
+Projektet byggdes som examensarbetet för min utbildning och inom tidsramarna för detta har administrationsgränssnittet inte stylats utöver den styling som ASP.NET Core Razor Pages erbjuder.
+
+Dessutom rekommenderas att utgå från dev-grenen, eftersom flertalet filer har försvunnit vid olika försök att slå samman grenarna. 
 
 ## Relaterade projekt
 Hi-Hat Sound - frontend: https://github.com/Muurein/HiHatSound-frontend 
