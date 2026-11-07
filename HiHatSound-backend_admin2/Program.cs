@@ -16,6 +16,18 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddRazorPages();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("Angular", policy =>
+    {
+        policy
+            .WithOrigins("http://localhost:4200")
+            .AllowAnyMethod()
+            .AllowAnyHeader()
+            .AllowCredentials();
+    });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -30,10 +42,20 @@ else
     app.UseHsts();
 }
 
+//aktiverar CORS
+// app.UseCors(builder => builder //ÄNDRA VID PUBLICERING TILL WITHORIGINS("DOMÄN)
+//     .AllowAnyOrigin()
+//     .AllowAnyMethod()
+//     .AllowAnyHeader());
+
+
 app.UseHttpsRedirection();
 
 app.UseRouting();
 
+app.UseCors("Angular");
+
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

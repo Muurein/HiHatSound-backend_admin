@@ -16,10 +16,13 @@ namespace HiHatSound_backend_admin2.Models
         public string? SpotifyLink { get; set; }
 
         [Required]
+        [Url]
         public string? RssFeed { get; set; }
 
         [Required]
+        [Url]
         public string? ImageUrl { get; set; }
 
     }
 }
+

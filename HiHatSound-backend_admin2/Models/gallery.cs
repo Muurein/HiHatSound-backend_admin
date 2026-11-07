@@ -8,6 +8,8 @@ namespace Gallery.Models
 
 
         [Required]
+        [Url]
         public string? ImageUrl { get; set; }
     }
 }
+

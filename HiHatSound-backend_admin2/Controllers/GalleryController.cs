@@ -1,15 +1,12 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Gallery.Models;
 using HiHatSound_backend_admin2.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace HiHatSound_backend_admin2.Controllers
 {
+    
     [Route("api/gallery")]
     [ApiController]
     public class GalleryController : ControllerBase
@@ -44,9 +41,16 @@ namespace HiHatSound_backend_admin2.Controllers
 
         // PUT: api/Gallery/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        [Authorize]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutGalleryModel(int id, GalleryModel galleryModel)
         {
+            
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            
             if (id != galleryModel.Id)
             {
                 return BadRequest();
@@ -74,10 +78,15 @@ namespace HiHatSound_backend_admin2.Controllers
         }
 
         // POST: api/Gallery
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        [Authorize]
         [HttpPost]
         public async Task<ActionResult<GalleryModel>> PostGalleryModel(GalleryModel galleryModel)
         {
+             if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
             _context.Galleries.Add(galleryModel);
             await _context.SaveChangesAsync();
 
@@ -85,6 +94,7 @@ namespace HiHatSound_backend_admin2.Controllers
         }
 
         // DELETE: api/Gallery/5
+        [Authorize]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteGalleryModel(int id)
         {

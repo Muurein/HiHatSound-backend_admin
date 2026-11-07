@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj": {}
+    "C:\\Exjobb-2\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj": {}
   },
   "projects": {
-    "C:\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj": {
+    "C:\\Exjobb-2\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj",
+        "projectUniqueName": "C:\\Exjobb-2\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj",
         "projectName": "HiHatSound-backend_admin2",
-        "projectPath": "C:\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj",
+        "projectPath": "C:\\Exjobb-2\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\HiHatSound-backend_admin2.csproj",
         "packagesPath": "C:\\Users\\amand\\.nuget\\packages\\",
-        "outputPath": "C:\\Exjobb\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\obj\\",
+        "outputPath": "C:\\Exjobb-2\\HiHatSound-backend_admin\\HiHatSound-backend_admin2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -45,10 +46,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Azure.Identity": {
@@ -66,10 +68,6 @@
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[10.0.1, )"
-            },
-            "Microsoft.EntityFramework.SqlServer": {
-              "target": "Package",
-              "version": "[6.5.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -113,7 +111,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

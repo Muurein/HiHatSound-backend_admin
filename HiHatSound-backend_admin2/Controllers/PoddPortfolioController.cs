@@ -1,15 +1,12 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using HiHatSound_backend_admin2.Data;
 using HiHatSound_backend_admin2.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace HiHatSound_backend_admin2.Controllers
 {
+    
     [Route("api/poddportfolio")]
     [ApiController]
     public class PoddPortfolioController : ControllerBase
@@ -44,9 +41,16 @@ namespace HiHatSound_backend_admin2.Controllers
 
         // PUT: api/PoddPortfolio/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        [Authorize]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutPoddPortfolioModel(int id, PoddPortfolioModel poddPortfolioModel)
         {
+
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
             if (id != poddPortfolioModel.Id)
             {
                 return BadRequest();
@@ -75,9 +79,15 @@ namespace HiHatSound_backend_admin2.Controllers
 
         // POST: api/PoddPortfolio
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        [Authorize]
         [HttpPost]
         public async Task<ActionResult<PoddPortfolioModel>> PostPoddPortfolioModel(PoddPortfolioModel poddPortfolioModel)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            
             _context.PoddPortfolios.Add(poddPortfolioModel);
             await _context.SaveChangesAsync();
 
@@ -85,6 +95,7 @@ namespace HiHatSound_backend_admin2.Controllers
         }
 
         // DELETE: api/PoddPortfolio/5
+        [Authorize]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeletePoddPortfolioModel(int id)
         {

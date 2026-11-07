@@ -17,91 +17,92 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v10.0
+build_property.EntryPointFilePath = 
 build_property.RootNamespace = HiHatSound_backend_admin2
 build_property.RootNamespace = HiHatSound_backend_admin2
-build_property.ProjectDir = C:\Exjobb\HiHatSound-backend_admin\HiHatSound-backend_admin2\
+build_property.ProjectDir = C:\Exjobb-2\HiHatSound-backend_admin\HiHatSound-backend_admin2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.RazorLangVersion = 9.0
+build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Exjobb\HiHatSound-backend_admin\HiHatSound-backend_admin2
+build_property.MSBuildProjectDirectory = C:\Exjobb-2\HiHatSound-backend_admin\HiHatSound-backend_admin2
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Error.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Create.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FsbGVyeVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Delete.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FsbGVyeVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Details.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FsbGVyeVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Edit.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FsbGVyeVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Index.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Gallery/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FsbGVyeVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Index.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Create.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9kZFBvcnRmb2xpb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Delete.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9kZFBvcnRmb2xpb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Details.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9kZFBvcnRmb2xpb1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Edit.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9kZFBvcnRmb2xpb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Index.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/PoddPortfolio/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9kZFBvcnRmb2xpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Privacy.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Shared/_LoginPartial.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/_ViewImports.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/_ViewStart.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Exjobb/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Shared/_Layout.cshtml]
+[C:/Exjobb-2/HiHatSound-backend_admin/HiHatSound-backend_admin2/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-gz575hp4u7
